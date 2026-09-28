@@ -1,0 +1,21 @@
+{
+  "name": "skill-wordpress-yoast-seo",
+  "owner": {
+    "name": "Robson Cavalcante"
+  },
+  "metadata": {
+    "description": "Skill aberta para estratégia, criação, auditoria e otimização de SEO em WordPress com suporte a Yoast SEO Premium.",
+    "version": "1.0.0-rc1"
+  },
+  "plugins": [
+    {
+      "name": "wordpress-seo",
+      "description": "Consultoria SEO sênior para WordPress: intenção de busca, SERP, canibalização, conteúdo, Yoast SEO Premium, Schema, E-E-A-T/YMYL, performance e medição.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/wordpress-seo"
+      ]
+    }
+  ]
+}
